@@ -1,0 +1,6 @@
+[submodule "src/thirdparty/protobuf-2.6.1"]
+	path = src/thirdparty/protobuf-2.6.1
+	url = git@github.com:protocolbuffers/protobuf.git
+[submodule "src/thirdparty/libspng"]
+	path = src/thirdparty/libspng
+	url = https://gitlab.com/randy408/libspng.git
